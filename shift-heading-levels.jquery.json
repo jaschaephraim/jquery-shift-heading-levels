@@ -1,0 +1,27 @@
+{
+  "name": "shift-heading-levels",
+  "version": "1.0.0",
+  "title": "Shift Heading Levels",
+  "author": {
+    "name": "Jascha Ephraim",
+    "email": "jascha@jaschaephraim.com",
+    "url": "http://jaschaephraim.com"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://opensource.org/licenses/MIT"
+    }
+  ],
+  "dependencies": {
+    "jquery": ">=1.2.3"
+  },
+  "description": "Shifts heading levels up or down.",
+  "keywords": [
+    "jquery",
+    "plugin",
+    "heading"
+  ],
+  "homepage": "https://github.com/jaschaephraim/jquery-shift-heading-levels",
+  "docs": "https://github.com/jaschaephraim/jquery-shift-heading-levels/blob/master/README.md"
+}

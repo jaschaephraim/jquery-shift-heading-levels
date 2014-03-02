@@ -14,6 +14,7 @@
   "homepage": "https://github.com/jaschaephraim/jquery-shift-heading-levels",
   "ignore": [
     ".git",
+    "shift-heading-levels.jquery.json",
     "test.html"
   ]
 }
