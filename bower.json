@@ -1,6 +1,6 @@
 {
   "name": "jquery-shift-heading-levels",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "authors": [
     "Jascha Ephraim <jascha@jaschaephraim.com>"
   ],
@@ -13,6 +13,7 @@
   "license": "MIT",
   "homepage": "https://github.com/jaschaephraim/jquery-shift-heading-levels",
   "ignore": [
+    ".git",
     "test.html"
   ]
 }
