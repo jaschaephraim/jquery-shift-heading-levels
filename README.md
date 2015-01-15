@@ -3,6 +3,10 @@
 Shifts heading levels up or down.
 
 ## Use
+```html
+<script src="jquery.min.js"></script>
+<script src="jquery-shift-heading-levels.min.js"></script>
+```
 
 ```js
 $( selector ).shiftHeadingLevels( shift_amt );

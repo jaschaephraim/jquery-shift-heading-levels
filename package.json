@@ -1,0 +1,30 @@
+{
+  "name": "jquery-shift-heading-levels",
+  "version": "1.0.2",
+  "description": "JQuery plugin that shifts heading levels (h1 to h2, etc.).",
+  "keywords": [
+    "jquery-plugin",
+    "jquery",
+    "plugin",
+    "html",
+    "headings"
+  ],
+  "homepage": "https://github.com/jaschaephraim/jquery-shift-heading-levels",
+  "bugs": {
+    "url": "https://github.com/jaschaephraim/jquery-shift-heading-levels/issues"
+  },
+  "license": "MIT",
+  "author": {
+    "name": "Jascha Ephraim",
+    "email": "jascha@jaschaephraim.com",
+    "homepage": "http://jaschaephraim.com"
+  },
+  "main": "jquery-shift-heading-levels.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jaschaephraim/jquery-shift-heading-levels"
+  },
+  "peerDependencies": {
+    "jquery": "*"
+  }
+}
