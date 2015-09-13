@@ -22,7 +22,7 @@
 
       $el = $( el );
       
-      if ( el.tagName.match( /H[1-6]/ ) ) {
+      if ( el.nodeType == 1 && el.tagName.match( /H[1-6]/ ) ) {
 
         var old_lvl = parseInt( el.tagName[ 1 ] );
         var new_lvl = old_lvl + shift;

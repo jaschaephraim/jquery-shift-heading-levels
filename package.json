@@ -1,6 +1,6 @@
 {
   "name": "jquery-shift-heading-levels",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "JQuery plugin that shifts heading levels (h1 to h2, etc.).",
   "keywords": [
     "jquery-plugin",
